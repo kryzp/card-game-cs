@@ -1,2 +1,2 @@
-# card-game-cs
+# Card Game
 Card game (Prší) in an Ascii format.
